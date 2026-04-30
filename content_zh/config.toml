@@ -63,7 +63,7 @@ target = "cv"
 href = "/cv"
 
 [[navigation]]
-title = "Toffee"
+title = "🐾"
 type = "page"
 target = "toffee"
 href = "/toffee"
