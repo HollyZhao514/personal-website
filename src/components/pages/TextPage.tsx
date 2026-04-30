@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import { TextPageConfig } from '@/types/page';
 
 interface TextPageProps {
@@ -26,6 +27,7 @@ export default function TextPage({ config, content, embedded = false }: TextPage
             )}
             <div className="text-neutral-700 dark:text-neutral-600 leading-relaxed">
                 <ReactMarkdown
+                    rehypePlugins={[rehypeRaw]}
                     components={{
                         h1: ({ children }) => <h1 className="text-3xl font-serif font-bold text-primary mt-8 mb-4">{children}</h1>,
                         h2: ({ children }) => <h2 className="text-2xl font-serif font-bold text-primary mt-8 mb-4 border-b border-neutral-200 dark:border-neutral-800 pb-2">{children}</h2>,
@@ -49,6 +51,9 @@ export default function TextPage({ config, content, embedded = false }: TextPage
                         ),
                         strong: ({ children }) => <strong className="font-semibold text-primary">{children}</strong>,
                         em: ({ children }) => <em className="italic text-neutral-600 dark:text-neutral-500">{children}</em>,
+                        // eslint-disable-next-line @next/next/no-img-element, jsx-a11y/alt-text
+                        img: ({ ...props }) => <img {...props} className="rounded-lg shadow-md my-4 max-w-md w-full h-auto mx-auto" />,
+                        video: ({ ...props }) => <video {...props} controls className="rounded-lg shadow-md my-4 max-w-md w-full h-auto mx-auto" />,
                     }}
                 >
                     {content}

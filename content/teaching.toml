@@ -3,8 +3,8 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "BME 343 - Biomedical Engineering Signal and Systems Analysis"
+subtitle = "Graduate Teaching Assistant"
+date = "Fall 2025"
+content = ""
+tags = ["Undergraduate", "Senior", "BME"]

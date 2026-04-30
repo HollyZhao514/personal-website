@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student in the Department of Biomedical Engineering at the University of Texas at Austin (UT Austin), advised by [Dr. Edward Castillo](https://bme.utexas.edu/person/edward-castillo/) in Dynamic Medical Image and Computing ([DIMC](https://sites.utexas.edu/dmiclab/)) Lab. I completed my B.S. and M.S. degree in Electrical and Computer Engineering at The Ohio State University.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Before joining UT Austin, I worked as a research associate in [Roland Henry Lab](https://henrylab.ucsf.edu/) at the University of California, San Francisco (UCSF) in the Department of Neurology, where I developed pipelines for processing and analyzing MRI data in patients with multiple sclerosis.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I joined DMIC Lab in Fall 2025. My current research focuses on developing machine learning and computational modeling approaches for pulmonary CT imaging, with an emphasis on lung anatomy, respiratory motion, and regional function.

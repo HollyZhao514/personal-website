@@ -1,29 +1,30 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Haojun (Holly) Zhao"
+description = "PhD student at University of Texas at Austin"
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "April, 2026"
 
 [author]
-name = "Jiale Liu"
+name = "Holly Zhao 赵浩君"
+pronouns = "she/her/hers"
 title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+institution = "University of Texas at Austin"
+avatar = "/crop_bio.png"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "holly.zhao@utexas.edu"
+location = "Austin, TX, USA"
+location_url = "https://www.google.com/maps/place/The+University+of+Texas+at+Austin+Biomedical+Engineering+(BME)/@30.2893706,-97.7414012,17z/data=!3m1!4b1!4m6!3m5!1s0x8644b5831f0c4335:0xd1b21a4c7b9709a1!8m2!3d30.2893706!4d-97.7388263!16s%2Fg%2F11_tfllvd?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "R107 W Dean Keeton St",
+  "Austin, TX 78712"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=C-UIl-AAAAAJ&hl=zh-CN"
+orcid = "https://orcid.org/0009-0006-7362-9047"
+github = "https://github.com/HollyZhao514"
+linkedin = "https://www.linkedin.com/in/holly-zhao/"
 
 [features]
 # Show a like button on the about page
@@ -72,14 +73,20 @@ type = "page"
 target = "awards"
 href = "/awards"
 
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
 
 [[navigation]]
 title = "CV"
 type = "page"
 target = "cv"
 href = "/cv"
+
+[[navigation]]
+title = "🐾"
+type = "page"
+target = "toffee"
+href = "/toffee"

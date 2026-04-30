@@ -1,26 +1,34 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**University of Texas at Austin**, Ph.D. in Biomedical Engineering, _2025 - Present_
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+- Research focus: Medical imaging and computational modeling
+- Advisor: Dr. Edward Castillo
+
+**The Ohio State University**, M.S. in Electrical and Computer Engineering, _2020 - 2022_
+
+**The Ohio State University**, B.S. in Electrical and Computer Engineering, _2017 - 2020_
+
+- Graduated with Cum Laude Honours
 
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Staff Research Associate II**
+University of California, San Francisco
+_2022 - 2025_
+
+- Conducted advanced brain MRI data processing and analysis for large-scale Multiple Sclerosis research studies.
+- Developed pipelines for multimodal image co-registration, quantitative susceptibility mapping (QSM), and extraction of brain and spinal cord metrics.
+- Supported clinical and research studies by delivering high-quality quantitative MRI data.
+- Oversaw clinical trial dataset management, ensuring data accuracy, integrity, and workflow efficiency.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Programming:** Python, MATLAB, LaTeX, Shell Script, C++
+- **Data Analysis:** PyTorch, Pandas, NumPy, SciPy
+- **Languages:** Mandarin (Native), English (Fluent)
 
 ## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Cum Laude Honor** - The Ohio State University (_2020_)
+- **Dean's List** - The Ohio State University (_2018, 2019, 2020_)

@@ -3,9 +3,9 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "医学影像",
+  "机器学习 / 深度学习 / 人工智能",
+  "计算建模"
 ]
 
 [[sections]]
