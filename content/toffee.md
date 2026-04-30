@@ -1,5 +1,7 @@
 Meet Toffee — my emotional support dog and constant companion through grad school. 🐾
 
+Follow her on Instagram: [@toffee.thebernedoodle](https://www.instagram.com/toffee.thebernedoodle/)
+
 ## Pictures
 
 <!-- Drop images into public/toffee/ and reference them like this: -->
